@@ -1,0 +1,11 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.cache
+*.ide/
+*.db-shm
+*.db-wal
