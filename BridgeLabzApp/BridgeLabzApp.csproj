@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BridgeLabzApp.OOPs_work.Encapsulation.age_encapsulation</StartupObject>
+    <StartupObject>BridgeLabzApp.OOPs_work.Encapsulation.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
