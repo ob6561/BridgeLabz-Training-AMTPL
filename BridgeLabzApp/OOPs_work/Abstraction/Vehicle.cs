@@ -73,7 +73,7 @@ namespace BridgeLabzApp.OOPs_work.Abstraction
     }
 
 
-    internal class Program
+    internal class Program1
     {
         static void Main(string[] args)
         {
