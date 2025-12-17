@@ -6,6 +6,7 @@
     <RootNamespace>SOLID_work</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>SOLID_work.Ecommerce_notification</StartupObject>
   </PropertyGroup>
 
 </Project>
